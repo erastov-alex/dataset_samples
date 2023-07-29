@@ -33,14 +33,13 @@ This repository contain test datasets provide by [Supervisely](https://supervise
 
 ### COCO
 ```
-.
 ├── annotations
 │   └── instance.json
 └── img
     └── images samples
-'''
+```
 ### YOLO
-'''
+```
 ├── images
 │   ├── train
 │   │   ├── image_x.extension
