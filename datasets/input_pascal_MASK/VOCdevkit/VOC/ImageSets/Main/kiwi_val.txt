@@ -1,0 +1,6 @@
+IMG_0748_leftImg8bit 1
+IMG_1836_leftImg8bit 1
+IMG_2084_leftImg8bit 1
+IMG_3861_leftImg8bit 1
+IMG_4451_leftImg8bit 1
+IMG_8144_leftImg8bit 1

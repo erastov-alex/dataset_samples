@@ -1,0 +1,7 @@
+colors:
+- [255, 0, 0]
+- [81, 198, 170]
+names: [kiwi, lemon]
+nc: 2
+train: ../254285_Lemons (Annotated)(new shapes)/images/train
+val: ../254285_Lemons (Annotated)(new shapes)/images/val
