@@ -1,6 +1,6 @@
 # <div align="center" markdown>
 
-# Import Images in Supervisely format
+# Datasets samples
 
 <p align="center">
   <a href="#Overview">Overview</a> •
@@ -32,7 +32,8 @@ This repository contain test datasets provide by [Supervisely](https://supervise
 *empty folders are empty only for this cases
 
 ### COCO
-'''
+```
+.
 ├── annotations
 │   └── instance.json
 └── img
@@ -55,9 +56,9 @@ This repository contain test datasets provide by [Supervisely](https://supervise
 │   └── val
 │       └── empty
 └── data_config.yaml
-'''
+```
 ### Cityscapes
-'''
+```
 ├── gtFine
 │   ├── test/ds1
 │   │   ├── image_x_object_mask.png
@@ -91,10 +92,10 @@ This repository contain test datasets provide by [Supervisely](https://supervise
 │       ├── ...
 │       └── images.extension
 └── class_to_id.json
-'''
+```
 
 ### PascalVOC for Rectangles
-'''
+```
 ├── annotations
 │   ├── image_x.xml
 │   ├── ...
@@ -103,10 +104,10 @@ This repository contain test datasets provide by [Supervisely](https://supervise
     ├── image_x.extension
     ├── ...
     └── images.extension
-'''
+```
 
 ### PascalVOC with PNG masks
-'''
+```
 ├── JPEGImages
 │   └── images
 ├── SegmenationClass
@@ -125,5 +126,5 @@ This repository contain test datasets provide by [Supervisely](https://supervise
 │       ├── ...
 │       └── val.txt
 └── colors.txt
-'''
+```
 
